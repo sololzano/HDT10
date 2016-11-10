@@ -1,3 +1,6 @@
+/**
+@author Luis Diego Sierra, Diego López, Carlos Solórzano
+*/
 import javax.swing.*;
 import javax.swing.border.EmptyBorder;
 import javax.swing.filechooser.FileNameExtensionFilter;
