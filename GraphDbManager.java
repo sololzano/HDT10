@@ -1,3 +1,7 @@
+/**
+@author Luis Diego Sierra, Diego López, Carlos Solórzano
+*/
+
 import org.graphstream.algorithm.PageRank;
 import org.graphstream.graph.Graph;
 import org.graphstream.graph.Node;
